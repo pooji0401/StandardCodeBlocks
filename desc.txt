@@ -1,0 +1,5 @@
+As a Data Scientist at DDI, I develop end-to-end data science solutions that majorly focus on Natural Language Processing (NLP) , Survey analysis for customer segmentation and Recommendation Systems. Based on the business requirements, I am responsible for identifying /extracting relevant data, designing the solution, and finally deploying the solution/service for various applications. These solutions are integrated as services into various Web applications and Virtual Reality (VR) applications. In addition to these regular tasks, I work on ad-hoc tasks that include Web Scraping and other data engineering tasks. 
+
+Having graduated from CMU with majors in Business Intelligence & Data Analytics, I have relevant academic knowledge and hands-on experience with tackling end-to-end Data Science projects. Prior to CMU, I worked as a Business Intelligence Developer, performing the tasks of ETL- Extract, Transform & Load processes on massive scales of data and developing visual insights (dashboards) from this data.
+
+
